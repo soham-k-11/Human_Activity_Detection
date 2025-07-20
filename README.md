@@ -12,7 +12,7 @@ Whether it's for smart home applications, fitness tracking, elder care, or secur
 
 * **Efficient Data Transmission:** Leverages the on-board u-blox NINA-W102 on Arduino Nano 33 Iot for efficient communication with the server.
 
-* **THE LSTM Model:** A pre-trained, robust LSTM model hosted on the server for intelligent activity classification.
+* **THE LSTM Model:** A pre-trained, robust LSTM model hosted on the server for intelligent activity classification. (99% train-val-test).
 
 * **Instant Predictions:** Experience near-instantaneous activity predictions, enabling dynamic and responsive applications.
 
