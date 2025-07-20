@@ -1,6 +1,4 @@
 flask
-gunicorn
 numpy
 tensorflow
 tensorflow.keras
-keras
