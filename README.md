@@ -1,4 +1,4 @@
-# Human_Activity_Detection
+# Real-Time Human_Activity_Detection
 ### Copyright (c) [2025] [soham-k-11]. All Rights Reserved.
 
 
